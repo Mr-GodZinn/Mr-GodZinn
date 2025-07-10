@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alex David and I'm a Desenvolvedor web , from brasil</p>
+<p align="left">My name is Alex David and I'm a Desenvolvedor Full Stack, from Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating Codes since 2017<br>📚 I'm currently learning JS<br>🎯 Goals: Abrir minha propia empresa<br></p>
+<p align="left">✨ Creating Codes since 2017<br>📚 I'm currently learning Pythorch<br>🎯 Goals: Abrir minha propia empresa<br></p>
 
 ###
 
