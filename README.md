@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning JS<br>🎯 Goals: Alcançar meu primeiro trabaho<br>🎲 Fun fact: quero virar Dev de jogo</p>
+<p align="left">✨ Creating Codes since 2017<br>📚 I'm currently learning JS<br>🎯 Goals: Abrir minha propia empresa<br></p>
 
 ###
 
