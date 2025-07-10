@@ -36,4 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
+<h2>E outras Linguagens nao citadas anteriormente como: C#, Mysql, Java. E entre outras...</h2>
+
 ###
