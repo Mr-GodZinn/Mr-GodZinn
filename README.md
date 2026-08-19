@@ -102,10 +102,10 @@ Software Engineer with a strong track record in **Back-end Development**. I brid
   <a href="https://linkedin.com/in/seulinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com" target="_blank">
+  <a href="https://discord.com/godzinnlindu" target="_blank">
     <img src="https://img.shields.io/badge/Discord-GodZinn-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://github.com/SEU_USUARIO_AQUI">
+  <a href="https://github.com/Mr-GodZinn">
     <img src="https://img.shields.io/badge/GitHub-GodZinn-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
